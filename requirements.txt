@@ -7,5 +7,3 @@ PySide6-Fluent-Widgets==1.7.7
 PySide6_Addons==6.9.0
 PySide6_Essentials==6.9.0
 PySideSix-Frameless-Window==0.6.0
-pywin32==310
-shiboken6==6.9.0
