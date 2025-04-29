@@ -28,7 +28,6 @@ class MicSoundApp(FluentWindow):
         self.resize(600, 400)
         self.setMinimumSize(400, 300)
         setTheme(Theme.DARK)
-        self.apply_theme()
 
         self.config = {"debug_logs": False, "volume": 50, "selected_server": None}
         self.load_config()
